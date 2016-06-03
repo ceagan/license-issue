@@ -1,0 +1,35 @@
+Copyright (c) 2011-2016 Harmonia Holdings Group, LLC
+All rights reserved.
+
+Harmonia Holdings Group, LLC
+2020 Kraft Drive Suite 2400
+Blacksburg, VA 24060
+
+Contract No: N00014-15-C-0102
+
+Portions of this software are covered by DFARS 252.227-7018 Rights in
+Noncommercial Technical Data and Computer Software--Small Business Innovation
+Research (SBIR) Program MAR 2011. SBIR contracts are N00014-10-M-0080,
+N00014-11-C-0523, N66001-11-M-5106, N66001-12-C-5211, W15P7T-11-C-A611,
+W15P7T-12-C-H206, FA8750-11-C-0165, and FA8750-12-C-0249 with an end to the
+SBIR data rights period on September 12, 2021.
+
+The Government's rights to use, modify, reproduce, release, perform, display,
+or disclose these technical data are restricted by paragraph (b)(3) of the
+Rights in Technical Data--Noncommercial Items clause contained in the above
+identified contract. Any reproduction of technical data or portions thereof
+marked with this legend must also reproduce the markings. Any person, other
+than the Government, who has been provided access to such data must promptly
+notify the above named Contractor.
+
+This software is being made available to the Government of the United States of
+America with unlimited rights.
+
+The U.S. Government may use, modify, reproduce, perform, display, release, or
+disclose information, in whole or in part, in any manner and for any purpose
+whatsoever and request or authorize others to do so.
+
+Distribution Statement C. Distribution authorized to U.S. Government agencies
+and their Contractors (Operational Use) (12 May 2014). Other requests for this
+document shall be referred to the Office of Naval Research / Program Officer
+listed in the contract.

@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <prerequisites>
+        <maven>2.2.1</maven>
+    </prerequisites>
+
+    <groupId>com.github.ceagan</groupId>
+    <artifactId>build-tools</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+
+    <name>Build Tools</name>
+    <description>Shared module providing configuration and resources for builds</description>
+
+    <distributionManagement>
+        <site>
+            <id>Example Website</id>
+            <url>http://www.example.com/</url>
+        </site>
+    </distributionManagement>
+
+    <properties>
+        <!-- Encode Everything with UTF-8 -->
+        <encoding>UTF-8</encoding>
+        <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>${encoding}</project.reporting.outputEncoding>
+        <project.resources.sourceEncoding>${encoding}</project.resources.sourceEncoding>
+        <archetype.encoding>${encoding}</archetype.encoding>
+    </properties>
+
+</project>
